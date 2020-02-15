@@ -1,0 +1,7 @@
+material_data/*
+pt_data/*
+tactile_img_data/*
+tactile_img_data_smooth/*
+tactile_img_Feb/*
+*.ckpt
+
